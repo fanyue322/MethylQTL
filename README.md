@@ -1,6 +1,6 @@
 # MethylQTL
 MethylQTL
-** 11 **
+**This is bold text**
 # Installation
 It is easy
 # Usage
