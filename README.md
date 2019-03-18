@@ -11,8 +11,8 @@ install_github("3211895/MethylQTL")
 The main function is methylqtl. You can find the instructions and an example by '?methylqtl'.
 
 Example:
-
+```
 data(ExampleData)
 res=methylqtl(geno,data,K)
-
+```
 
