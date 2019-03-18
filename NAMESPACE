@@ -1,0 +1,10 @@
+useDynLib(MethylQTL, .registration=TRUE)
+export(methylqtl)
+importFrom(Rcpp, evalCpp)
+importFrom("stats", "binomial", "glm", "model.frame", "model.matrix",
+             "na.omit", "na.pass", "pchisq", "poisson", "var")
+import(parallel)
+import(foreach)
+import(doParallel)
+import(Matrix)
+
